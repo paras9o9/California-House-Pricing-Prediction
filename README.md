@@ -6,7 +6,7 @@ This project predicts median house values in California using multiple regressio
 
 ## 📌 Overview
 
-We used the **California Housing Prices dataset** to build and evaluate three machine learning models:
+I used the **California Housing Prices dataset** to build and evaluate three machine learning models:
 
 - **Linear Regression**
 - **Lasso Regression** (with alpha tuning via cross-validation)
